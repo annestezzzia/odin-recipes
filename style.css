@@ -73,3 +73,9 @@ div.ingredients{
    margin: 8px;
    
 }
+
+.imgsize{
+    height: 310px;
+    aspect-ratio: auto 310 / 310;
+    width: 310px;
+}
