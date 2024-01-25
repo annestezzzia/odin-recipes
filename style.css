@@ -1,0 +1,40 @@
+#title{
+    color: black;
+    font-weight:bold;
+    font-size: 40px;
+    text-align: center;
+}
+
+#image{
+    border: 3px;
+    color: black;
+    border-style: double;
+}
+
+.pages {
+    background-color: papayawhip;
+    color:black;
+    font-weight:bold;
+    font-size: 25px;
+    text-align:left;
+    border: 3px;
+    border-style:double;
+    margin-top: 8px;
+}
+
+.h-box {
+display:inline-block;   
+    margin-inline: 20px;
+    vertical-align:top;
+}
+
+#b1{ background-color:rgb(127, 206, 255);
+}
+
+#b2{
+background-color: rgb(190, 135, 113);
+}
+
+#b3{
+background-color: rgb(255, 238, 127);
+}
