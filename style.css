@@ -38,3 +38,38 @@ background-color: rgb(190, 135, 113);
 #b3{
 background-color: rgb(255, 238, 127);
 }
+
+
+.titles {
+    text-align:center;
+}
+
+div.inlinevert {
+    display:inline-block;
+    vertical-align: 550%;
+    margin-inline: 20px;
+    background-color: rgb(209, 181, 139);
+    text-align: center;
+    border: 3px;
+    color: black;
+    border-style: double;
+    height: 210px;
+    width: 900px;
+}
+
+div.ingredients{
+    border: 3px;
+    color: black;
+    border-style: double;
+
+}
+
+.rbutton{
+   text-align: center;
+   background-color: rgb(161, 161, 242);
+   border-style:double;
+   font-size: large;
+   padding: 8px ;
+   margin: 8px;
+   
+}
